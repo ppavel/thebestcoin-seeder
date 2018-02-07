@@ -1,7 +1,7 @@
-bitcoin-seeder
+The Bestcoin seeder
 ==============
 
-Bitcoin-seeder is a crawler for the Bitcoin network, which exposes a list
+The Bestcoin seeder is a crawler for The Bestcoin, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
